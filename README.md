@@ -1,3 +1,7 @@
+## 🌐 Socials:
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/parulian_simbolon16/)
+
 ## 💻 Programming Languages:
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
